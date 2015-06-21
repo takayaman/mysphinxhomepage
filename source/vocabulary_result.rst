@@ -397,9 +397,282 @@ Resultの語彙
   - | virtual(ly)
     |
 
+他の研究結果との比較
+---------------------
+
+- | as anticipated
+  |
+- | as expected,
+  |
+- | as predicted by...
+  |
+- | as reported by...
+  |
+- | compare well with
+  |
+- | concur
+  |
+- | confirm
+  |
+- | consistent with
+  |
+- | contrary to
+  |
+- | corroborate
+  |
+- | correlate
+  |
+- | disprove
+  |
+- | inconsistent with
+  |
+- | in line with
+  |
+- | is / are better than
+  |
+- | is / are in good agreement
+  |
+- | is / are identical (to)
+  |
+- | is / are not dissimilar (to)
+  |
+- | is / are parallel (to)
+  |
+- | is / are similar
+  |
+- | is / are unlike
+  |
+- | match
+  |
+- | prove
+  |
+- | refute
+  |
+- | reinforce
+  |
+- | support
+  |
+- | validate
+  |
+- | verify
+  |
 
 結果に含まれる問題点
 --------------------
 
+- 問題を最小化し，好ましい結果に焦点をあてる
+
+  - | (a) preliminary attempt
+    |
+  - | despite this,
+    |
+  - | however,
+    |
+  - | immaterial
+    |
+  - | incomplete
+    |
+  - | infinitesimal
+    |
+  - | insignificant
+    |
+  - | less than ideal
+    |
+  - | less than perfect
+    |
+  - | (a) minor deficit / limitation
+    |
+  - | negligible
+    |
+  - | not always reliable
+    |
+  - | not always accurate
+    |
+  - | not ideal
+    |
+  - | not identical
+    |
+  - | not completely clear
+    |
+  - | not perfect
+    |
+  - | not precise
+    |
+  - | not significant
+    |
+  - | of no consequence
+    |
+  - | of no / little significance
+    |
+  - | only
+    |
+  - | reasonable results were obtained
+    |
+  - | room for improvement
+    |
+  - | slightly (disappointing)
+    |
+  - | (a) slight mismatch / limitation
+    |
+  - | somewhat (problematic)
+    |
+  - | (a) technicality
+    |
+  - | unimportant
+    |
+
+- 問題の理由を示唆する
+
+  - | may / could / might have been
+    |
+  - | was / were:
+    |
+  - | beyond the scope of this study
+    |
+  - | caused by
+    |
+  - | difficult to (simulate)
+    |
+  - | due to
+    |
+  - | hard to (control)
+    |
+  - | inevitable
+    |
+  - | it should be noted that...
+    |
+  - | not attempted
+    |
+  - | not examined
+    |
+  - | not explored in this study
+    |
+  - | not investigated
+    |
+  - | not the focus of this paper
+    |
+  - | not within the scope of this study
+    |
+  - | possible source(s) of error
+    |
+  - | unavoidable
+    |
+  - | unexpected
+    |
+  - | unfortunately
+    |
+  - | unpredictable
+    |
+  - | unworkable
+    |
+  - | unavailable
+    |
+
+- 解決策を提示する
+
+  - | further work is planned
+    |
+  - | future work should...
+    |
+  - | future work will...
+    |
+  - | in future, care should be taken
+    |
+  - | in future, it is advised that...
+    |
+
 結果が示しうる意味
 -------------------
+
+- | apparently
+  |
+- | could be due to
+  |
+- | could be explained by
+  |
+- | could account for
+  |
+- | could be attributed to
+  |
+- | could be interpreted as
+  |
+- | could be seen as
+  |
+- | evidently
+  |
+- | imply / implies that
+  |
+- | indicate / indicating that
+  |
+- | in some / circumstances
+  |
+- | is owing to
+  |
+- | is / are associated with
+  |
+- | is / are likely
+  |
+- | is / are linked to
+  |
+- | is / are related to
+  |
+- | it appears that
+  |
+- | it could be concluded that
+  |
+- | it could be inferred that
+  |
+- | it could be speculated that
+  |
+- | it could be assumed that
+  |
+- | it is conceivable that
+  |
+- | it is evident that
+  |
+- | it is logical that
+  |
+- | it is thought / believed that
+  |
+- | it seems that
+  |
+- | it seems plausible (etc.) that
+  |
+- | likely
+  |
+- | may / might
+  |
+- | means that
+  |
+- | perhaps
+  |
+- | possibly / possibility
+  |
+- | potentially
+  |
+- | presumably
+  |
+- | probably
+  |
+- | provide compelling evidence
+  |
+- | seem to
+  |
+- | suggest(ing) that
+  |
+- | support the idea that
+  |
+- | tend to
+  |
+- | tendency
+  |
+- | unlikely
+  |
+- | there is evidence for
+  |
+- | we could infer that
+  |
+- | we have confidence that
+  |
+- | would seem to suggest / indicate
+  |
